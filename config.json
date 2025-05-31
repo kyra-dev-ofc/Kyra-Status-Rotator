@@ -1,5 +1,5 @@
 {
-  "token": "",
+  "token": "Put ur token here",
   "status_sequence": ["online", "online", "online"],
   "clear_enabled": true,
   "clear_interval": 5,
