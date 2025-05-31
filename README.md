@@ -14,7 +14,10 @@ A dynamic Discord custom status rotator written in Python, allowing you to autom
 - Select other configurations.
 - Put emojis in emojis.txt [Nitro/Custom emoji format: emojiname:emojid | Normal emoji format: 🎉]
 - Put status text in text.txt
+
 ## Installation
 
--  ```bash
+Install required Python packages:
+
+```bash
 pip install requests colorama
